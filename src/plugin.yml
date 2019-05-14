@@ -1,0 +1,36 @@
+name: LuckyFFA_ZOTAX
+main: me.luckyffa.Main
+version: 2.1
+author: 3oOoIvIoOoR
+commands:
+  kit:
+  sethologram:
+    description: this command to set hologram FFA
+  kits:
+  ping:
+    description: this command to see you ping
+  LB:
+    description: LuckyBlock Plugin
+  duel:
+    description: this command for 1 vs 1 player
+  gm:
+    description: this command to change your gamemode
+  gamemode:
+    description: this command to change your gamemode
+  setduel:
+  Vanish:
+    description: this command to Vanish ur self
+  givekey:
+    description: this command to get a crate key
+  pk:
+    description: this command to open private gui kit
+  pc:
+    description: this command to disable public chat
+  stats:
+    description: this command to see player stats
+  ss:
+    description: this command to freeze player
+  Action:
+    description: this command to send actionbar message to online player
+  Title:
+    description: this command to send titlebar and subtitle message to online player
