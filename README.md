@@ -2,7 +2,7 @@
 
 Plugin Idea :
   
-  FFA ( Free for all ) // Limited players 30 - 40
+  FFA ( Free for all ) // Limited players 30 - 40 //
   
       it contains :
         
