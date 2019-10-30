@@ -11,13 +11,28 @@ Plugin Idea :
         - LuckBlock ( 1 kill = 1 LuckBlock )
         - KillStreak ( max killstreak 100kill if you died killstreak has been reset )
         - Essentil
-        - Cooldown
         - kits
         - PrivateKits ( Rank kit )
-        - Zone
         - HologramStats
         - duel ( Player vs Player )
         - ScreenShare ( Freeze )
         - Ping Command
         - ( Join - Quit - death - respawn ) System
-        - ChatSystem
+
+    ## Version 2 :
+        - troll ( Beta )
+        - Coins Commands ( New )
+        - Level ( New )
+        - Tournaments ( Beta )
+        - Vanish ( New ) [STAFF]
+        - Duel ( Beta )
+        - kits ( Upgrade )
+        - Cheat tools ( New )
+        - Scoreboard ( Upgrade )
+        - AntiDamge ( New ) [FALLDAMGE - LIGHTING - LAVA - FIRE - BLOCK EXPLOSTION - ENTITY EXPOSTION]
+        - ProjectTrailer ( New ) [Ranks only]
+        - Profile ( New ) [ACCOUNT ID - JON TIME - LEFT TIME]
+        - Achivments ( Coming soon )
+        - Shop ( Coming soon )
+        - Gadget ( Upgrade )
+        - Leaderboard ( Coming soon )
