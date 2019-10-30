@@ -6,6 +6,8 @@ Plugin Idea :
   
       it contains :
         
+       ## Version  - 1 - 
+        
         - LuckBlock ( 1 kill = 1 LuckBlock )
         - KillStreak ( max killstreak 100kill if you died killstreak has been reset )
         - Essentil
