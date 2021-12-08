@@ -1,4 +1,4 @@
-# LuckFFA-LuckBlock-FFA-
+# LuckFFA-LuckBlock-FFA- (This project is outdated)
 
 Plugin Idea :
   
